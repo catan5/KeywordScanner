@@ -1,6 +1,6 @@
 # KeywordScanner
 
-PowerShell script to scan resumes for keyword matches across PDF and text files.
+PowerShell script to scan internal documents for keyword matches across PDF and text files.
 
 ## Requirements
 
